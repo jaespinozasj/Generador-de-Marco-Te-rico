@@ -1,0 +1,9 @@
+openai
+python-dotenv
+pyyaml
+scikit-learn
+matplotlib
+networkx
+python-docx
+markdown
+beautifulsoup4

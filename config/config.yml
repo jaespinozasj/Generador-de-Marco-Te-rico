@@ -1,0 +1,4 @@
+input_file: 'data/input.bib'
+n_clusters: 5
+model: 'gpt-40-mini'
+top_n_articles: 20

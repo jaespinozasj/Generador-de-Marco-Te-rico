@@ -21,7 +21,7 @@ Este proyecto genera un marco teórico basado en un conjunto de artículos acad�
 
 1. Clona este repositorio:
    ```
-   git clone https://github.com/tu-usuario/theoretical-framework-generator.git
+   git clone https://github.com/jaespinozasj/Generador-de-Marco-Te-rico.git
    cd theoretical-framework-generator
    ```
 
